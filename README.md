@@ -9,7 +9,7 @@ This repository contains visual and geometric interpretations of key concepts in
 - Representation of col(X) as a plane in ℝ³ (for three observations)
 
 📄 PDF: [best-solution-ols.pdf](ls/best-solution-ols.pdf)  
-🖼 Diagram: [Least squares projection in R3.png](ls/Least squares projection in R3.png)
+🖼 Diagram: [Least squares projection in R3.png](ls/Least%20squares%20projection%20in%20R3.png)
 
 ## Related
 

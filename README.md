@@ -14,3 +14,12 @@ This repository contains visual and geometric interpretations of key concepts in
 ## Related
 
 - Website: https://www.graphmath.com/la/ls/best-solution-ols.html
+
+## Authors
+
+- Eteri Byazrova  
+- Yuri Morozov  
+
+## Project
+
+GraphMath — https://www.graphmath.com

@@ -8,8 +8,8 @@ This repository contains visual and geometric interpretations of key concepts in
 - Decomposition of y into y∥ (in col(X)) and y⊥ (orthogonal residual)  
 - Representation of col(X) as a plane in ℝ³ (for three observations)
 
-📄 PDF: ls/best-solution-ols.pdf  
-🖼 Diagram: ls/Least squares projection in R3.png  
+📄 PDF: [best-solution-ols.pdf](ls/best-solution-ols.pdf)  
+🖼 Diagram: [Least squares projection in R3.png](ls/Least squares projection in R3.png)
 
 ## Related
 

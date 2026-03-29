@@ -8,33 +8,33 @@ Some of these diagrams and ideas are also linked from public educational platfor
 
 ## Least Squares (OLS)
 
-- Geometric interpretation as projection onto the column space  
-- Decomposition of \( y \) into \( y_{\parallel} \in \mathrm{col}(X) \) and \( y_{\perp} \perp \mathrm{col}(X) \)  
-- Representation of \( \mathrm{col}(X) \) as a plane in \( \mathbb{R}^3 \) (for three observations)
+- Geometric interpretation as projection onto the column space
+- Decomposition of y into y∥ in col(X) and y⊥ orthogonal to col(X)
+- Representation of col(X) as a plane in R³ for three observations
 
 📄 PDF: [best-solution-ols.pdf](ls/best-solution-ols.pdf)  
 🖼 Diagram: [Least squares projection in R3.png](ls/Least%20squares%20projection%20in%20R3.png)  
-🌐 Web: https://www.graphmath.com/la/ls/best-solution-ols.html  
+🌐 Web: https://www.graphmath.com/la/ls/best-solution-ols.html
 
 ---
 
 ## Four Fundamental Subspaces
 
-- Decomposition of domain: \( \mathbb{R}^n = \mathrm{row}(A) \oplus \mathrm{null}(A) \)  
-- Decomposition of codomain: \( \mathbb{R}^m = \mathrm{col}(A) \oplus \mathrm{null}(A^T) \)  
-- Orthogonality of row space vs null space, and column space vs left null space  
+- Decomposition of domain: Rⁿ = row(A) ⊕ null(A)
+- Decomposition of codomain: Rᵐ = col(A) ⊕ null(Aᵀ)
+- Orthogonality of row space vs null space, and column space vs left null space
 
 📄 PDF: [subspaces.pdf](subspaces/subspaces.pdf)  
 🖼 Diagram: [Matrix four fundamental subspaces decomposition](subspaces/Matrix_four_fundamental_subspaces_decomposition.png)  
-🌐 Web: https://www.graphmath.com/la/subspaces/subspaces.html  
+🌐 Web: https://www.graphmath.com/la/subspaces/subspaces.html
 
 ---
 
 ## Pseudoinverse
 
-- Mapping between column space and row space  
-- \( A^+ A \) acts as identity on the row space  
-- \( A A^+ \) acts as projection onto the column space  
+- Mapping between column space and row space
+- A⁺A acts as identity on the row space
+- AA⁺ acts as projection onto the column space
 
 *(Full section coming soon)*
 
@@ -59,8 +59,8 @@ Some of these diagrams and ideas are also linked from public educational platfor
 
 ## Authors
 
-- Eteri Byazrova  
-- Yuri Morozov  
+- Eteri Byazrova
+- Yuri Morozov
 
 ---
 

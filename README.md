@@ -32,11 +32,12 @@ Some of these diagrams and ideas are also linked from public educational platfor
 
 ## Pseudoinverse
 
-- Mapping between column space and row space
-- A⁺A acts as identity on the row space
-- AA⁺ acts as projection onto the column space
+- Mapping between column space and row space  
+- A⁺A acts as identity on the row space  
+- AA⁺ acts as projection onto the column space  
 
-*(Full section coming soon)*
+📄 PDF: [pseudoinverse.pdf](pseudoinverse/pseudoinverse.pdf)  
+🌐 Web: https://www.graphmath.com/la/pseudoinverse/pseudoinverse.html
 
 ---
 

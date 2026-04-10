@@ -6,6 +6,16 @@ Some of these diagrams and ideas are also linked from public educational platfor
 
 ---
 
+## Concepts
+
+- **Least Squares as Projection in R³ (3 Observations, 2 Parameters)**  
+  https://www.graphmath.com/la/concepts/least-squares-projection-r3.html
+
+- **Change of Basis — Coordinate Mapping View**  
+  https://www.graphmath.com/la/concepts/change-of-basis-coordinate-mapping.html
+
+---
+
 ## Least Squares (OLS)
 
 - Geometric interpretation as projection onto the column space

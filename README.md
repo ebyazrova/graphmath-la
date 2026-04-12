@@ -54,14 +54,29 @@ Some of these diagrams and ideas are also linked from public educational platfor
 ## External references
 
 - Wikipedia:
+  - [Projection (linear algebra) — Orthogonal projections](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Orthogonal_projections)
+  - [Projection (linear algebra) — Finding projection with an inner product](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Finding_projection_with_an_inner_product)
   - [Ordinary least squares — Projection](https://en.wikipedia.org/wiki/Ordinary_least_squares#Projection)
   - [Row and column spaces — Relation to the left null space](https://en.wikipedia.org/wiki/Row_and_column_spaces#Relation_to_the_left_null_space)
-  - [Projection (linear algebra) — Orthogonal projections](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Orthogonal_projections)
+  - [Change of basis](https://en.wikipedia.org/wiki/Change_of_basis)
+  - [QR decomposition — Square matrix](https://en.wikipedia.org/wiki/QR_decomposition#Square_matrix)
+  - [QR decomposition — Example](https://en.wikipedia.org/wiki/QR_decomposition#Example)
+  - [Gaussian elimination — Definitions and example of algorithm](https://en.wikipedia.org/wiki/Gaussian_elimination#Definitions_and_example_of_algorithm)
 
 - Wikimedia Commons:
   - [Least squares projection geometry](https://commons.wikimedia.org/wiki/File:Least_squares_projection_geometry.png)
-  - [Four fundamental subspaces of a matrix (diagram)](https://commons.wikimedia.org/wiki/File:Four_fundamental_subspaces_of_a_matrix_(diagram).png)
+  - [Orthogonal projection using an orthonormal basis](https://commons.wikimedia.org/wiki/File:Orthogonal_projection_using_an_orthonormal_basis.png)
   - [Geometric interpretation of least squares (three observations)](https://commons.wikimedia.org/wiki/File:Geometric_interpretation_of_least_squares_(three_observations).png)
+  - [Four fundamental subspaces of a matrix (diagram)](https://commons.wikimedia.org/wiki/File:Four_fundamental_subspaces_of_a_matrix_(diagram).png)
+  - [Change-of-basis coordinate mapping (matrix representation)](https://commons.wikimedia.org/wiki/File:Change-of-basis_coordinate_mapping_(matrix_representation).png)
+  - [Change-of-basis coordinate transformation between bases](https://commons.wikimedia.org/wiki/File:Change-of-basis_coordinate_transformation_between_bases.png)
+  - [QR decomposition geometric interpretation (2D)](https://commons.wikimedia.org/wiki/File:QR_decomposition_geometric_interpretation_(2D).png)
+  - [QR decomposition geometric interpretation (3D)](https://commons.wikimedia.org/wiki/File:QR_decomposition_geometric_interpretation_(3D).png)
+  - [Gaussian elimination as multiplication by elementary matrices](https://commons.wikimedia.org/wiki/File:Gaussian_elimination_as_multiplication_by_elementary_matrices.png)
+
+- Open educational repositories:
+  - [OER Commons — Geometric Interpretation of Least Squares (OLS)](https://oercommons.org/courses/geometric-interpretation-of-least-squares-ols)
+  - [MERLOT — GraphMath materials](https://www.merlot.org/merlot/materials.htm?contributorUserId=1497058&fromAdvancedSearch=true&sort.property=dateCreated)
 
 - Zenodo:
   - [GraphMath record](https://zenodo.org/records/19272886)

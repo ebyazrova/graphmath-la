@@ -93,3 +93,9 @@ Some of these diagrams and ideas are also linked from public educational platfor
 ## Project
 
 GraphMath — https://www.graphmath.com
+
+---
+
+## Related external project
+
+- [Learn Linear Algebra](https://github.com/prashantkul/learn-linear-algebra) — free project by Prashant Kulkarni using GitHub notes, NotebookLM, SageMath/Python, examples and exercises
